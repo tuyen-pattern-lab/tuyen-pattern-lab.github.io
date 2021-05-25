@@ -392,7 +392,7 @@ select {
   border: 1px solid #444;
   border-radius: 0;
   padding: 0.5rem;
-  height: 2rem;
+  height: 2.3125rem;
   background: #fff;
   color: #131313; }
   select:focus {

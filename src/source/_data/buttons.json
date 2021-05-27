@@ -9,7 +9,7 @@
 		},
 		{
 			"styleModifier": "btn-outline-warning",
-			"buttonTag": true,
+			"buttonTag": false,
 			"buttonText": "Button"
 		}
 	]

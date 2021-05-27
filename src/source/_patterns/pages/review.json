@@ -73,7 +73,6 @@
     "buttonGroup":[
         {
             "buttonTag": false,
-            "linkTag": true,
             "url": "link.pages-confirmation",
             "buttonText": "Submit Order"
         }

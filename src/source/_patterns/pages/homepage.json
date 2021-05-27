@@ -118,8 +118,7 @@
 
 			}
 		],
-		"btnTag": false,
-		"linkTag": true,
+		"buttonTag": false,
 		"url": "link.pages-category-on-sale",
 		"buttonText" : "See All Sale Items"
 	}

@@ -77,7 +77,6 @@
     "buttonGroup" : [
         {
             "buttonTag" : false,
-            "linkTag" : true,
             "url" : "link.pages-review",
             "buttonText": "Continue To Review Order"
         }

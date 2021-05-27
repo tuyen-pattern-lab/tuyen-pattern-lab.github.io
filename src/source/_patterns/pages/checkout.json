@@ -42,7 +42,6 @@
     "buttonGroup" : [
         {
             "buttonTag" : false,
-            "linkTag" : true,
             "url" : "link.pages-checkout-billing",
             "buttonText": "Continue to Billing"
         }

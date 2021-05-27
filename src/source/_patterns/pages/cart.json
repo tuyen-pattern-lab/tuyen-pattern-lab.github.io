@@ -41,7 +41,6 @@
 	},
 	"checkoutButton": {
 		"buttonTag": false,
-		"linkTag": true,
 		"url": "link.pages-checkout",
 		"buttonText": "Checkout"
 	}

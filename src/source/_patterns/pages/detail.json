@@ -78,7 +78,6 @@
         "buttonGroup": [
             {
                 "buttonTag": false,
-                "linkTag": true,
                 "url": "link.pages-cart",
                 "buttonText": "Add To Cart"
             }

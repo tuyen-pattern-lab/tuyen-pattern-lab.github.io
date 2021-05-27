@@ -1,15 +1,16 @@
 {
-	"buttonTag" : true,
-	"buttonText" : "Button",
-    "buttonGroup" : [
-        {
+	"buttonTag": true,
+	"buttonText": "Button",
+	"buttonGroup": [
+		{
+			"styleModifier": "btn-primary",
 			"buttonTag": true,
 			"buttonText": "Button"
 		},
-        {
-			"styleModifier": "c-btn--bare",
+		{
+			"styleModifier": "btn-outline-warning",
 			"buttonTag": true,
 			"buttonText": "Button"
 		}
-    ]
+	]
 }

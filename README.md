@@ -6,5 +6,5 @@ Concept of Pattern Lab integrates with Bootstrap and jQuery
 ```shell
 cd src
 npm install
-npm run  pl:serve
+npm run pl:serve
 ```

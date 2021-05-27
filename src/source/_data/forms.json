@@ -142,5 +142,6 @@
         {
             "styleModifier": "c-btn--bare"
         }
-    ]
+    ],
+    "rows": 3
 }

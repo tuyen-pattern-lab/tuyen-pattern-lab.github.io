@@ -1,0 +1,14 @@
+{
+    "buttonGroup": [
+        {
+            "styleModifier": "",
+            "buttonTag": true,
+            "buttonText": "Button"
+        },
+        {
+            "styleModifier": "c-btn--bare",
+            "buttonTag": false,
+            "buttonText": "Button"
+        }
+    ]
+}

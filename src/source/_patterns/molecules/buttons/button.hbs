@@ -1,4 +1,4 @@
-<{{#if buttonTag }}button{{/ if }}{{#if linkTag }}a href="{{ url }}"{{/ if }} class="c-btn {{ styleModifier }}" {{# buttonTitle}}title="{{ buttonTitle }}"{{/ buttonTitle}}{{# buttonIsToggle }} data-btn-icon-swap="{{ iconPath }}{{ buttonIconSwap }}"{{/ buttonIsToggle }}>
+<{{#if buttonTag}}button{{else}}a {{#if url}}href="{{url}}"{{/if}}{{/if}} class="c-btn {{ styleModifier }}" {{# buttonTitle}}title="{{ buttonTitle }}"{{/ buttonTitle}}{{# buttonIsToggle }} data-btn-icon-swap="{{ iconPath }}{{ buttonIconSwap }}"{{/ buttonIsToggle }}>
 
     <div class="c-btn__inner">
 
@@ -14,4 +14,4 @@
 
     </div><!--end c-btn__inner-->
 
-</{{#if buttonTag }}button{{/ if }}{{#if linkTag }}a{{/ if }}><!-- end c-btn -->
+</{{#if buttonTag}}button{{else}}a{{/if}}><!-- end c-btn -->

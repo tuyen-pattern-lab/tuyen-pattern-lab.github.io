@@ -118,5 +118,12 @@ dist
 .pnp.*
 
 # PatternLab
+.css
 src/public
 src/dependencyGraph.json
+src/dist/*
+# !src/dist/fonts/
+
+# !src/dist
+# !src/dist/css
+# !src/dist/css/svg-sprite.css

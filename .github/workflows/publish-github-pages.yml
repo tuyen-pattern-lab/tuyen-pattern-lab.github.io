@@ -22,6 +22,7 @@ jobs:
       - name: Install and Build
         run: |
           npm install
+          npm run gulp:build
           npm run pl:build
         working-directory: ./src
 

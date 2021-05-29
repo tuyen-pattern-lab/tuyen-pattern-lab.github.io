@@ -10,6 +10,7 @@
     "pl:install": "patternlab install --config ./patternlab-config.json",
     "pl:serve": "patternlab serve --config ./patternlab-config.json",
     "pl:version": "patternlab --version",
+    "gulp:build": "gulp build",
     "gulp:serve": "gulp serve",
     "gulp:docs": "gulp docs"
   },
